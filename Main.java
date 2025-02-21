@@ -1,5 +1,5 @@
-
-/*public class Main { 
+//Q.1 Assignment 2(Snippets)
+public class Main { 
     public void main(String[] args) { 
         System.out.println("Hello, World!"); 
     } 
@@ -539,7 +539,7 @@ public class Switch {
 
 
 
-26.*/
+26.
 public class Switch { 
     public static void main(String[] args) { 
         int number = 5; 
